@@ -1,0 +1,1 @@
+require("./script1")  // for imports
